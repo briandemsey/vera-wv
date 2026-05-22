@@ -198,10 +198,6 @@ def load_el_growth_data():
 # AUTHENTICATION
 # ============================================================================
 
-def check_password():
-    st.session_state.authenticated = True
-    return True
-
 
 # ============================================================================
 # TYPE 4 DETECTION
