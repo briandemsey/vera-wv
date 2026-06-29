@@ -26,7 +26,7 @@ import plotly.graph_objects as go
 # CONFIGURATION
 # ============================================================================
 
-APP_WV_BLUE = "#002B5C"
+WV_BLUE = "#002B5C"
 WV_GOLD = "#FFD700"
 WV_DARK = "#001A3A"
 WV_GRAY = "#4A4A4A"
